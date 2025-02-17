@@ -1,17 +1,17 @@
-💰 Refound
-Um conversor de moedas simples que transforma dólar e euro em reais, desenvolvido com HTML, CSS e JavaScript.
+💵 Refund
+Um aplicativo de reembolso que facilita o cálculo e gerenciamento de valores a serem reembolsados, desenvolvido com JavaScript, HTML e CSS.
 
 🚀 Tecnologias utilizadas
 HTML5
 CSS3
 JavaScript
 
- Funcionalidades
-✔️ Conversão de dólar e euro para reais
-✔️ Interface simples e intuitiva
-✔️ Atualização em tempo real ao inserir valores
+📌 Funcionalidades
+✔️ Cálculo automático de valores a serem reembolsados
+✔️ Interface intuitiva e responsiva
+✔️ Registro de transações (se aplicável)
 
 🛠 Melhorias Futuras
- Buscar valores de câmbio em tempo real via API
- Adicionar mais moedas para conversão
- Criar um modo escuro para a interface
+ Implementar integração com API para salvar reembolsos
+ Adicionar suporte para múltiplas moedas
+ Criar um histórico de reembolsos para acompanhamento
